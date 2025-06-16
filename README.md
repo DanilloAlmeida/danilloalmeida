@@ -4,8 +4,12 @@
 **DanilloAlmeida/danilloalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
+Olá! Me chamo Danillo. Atuo como PO num time ágil e desenvolvo um pouco para mainframe.
+<br> Sou formado em Gestão de TI mas estou fazendo uma nova graduação (Licenciatura em Computação) na Universidade de Brasília (UnB)
+<br> Iniciei os estudos sobre microsserviços, cloud, devOps, git e github, front-end e estou gostando bastante.
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
